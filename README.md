@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Shreyas Prabhu</h1>
 <h3 align="center">Hello, my name is Shreyas Prabhu and I am a 3rd year Engineering student with a passion for web development. With 7 years of experience in WordPress development, I have honed my skills in creating visually stunning and user-friendly websites that provide seamless user experience. However, I am constantly striving to improve and upgrade my skills to stay ahead in this rapidly evolving field. In addition to my technical skills, I possess strong communication and collaboration skills, which allow me to work well in a team environment. I am eager to continue growing in my field and am excited about opportunities to take on new challenges and expand my knowledge. Thank you for taking the time to read my profile, and I look forward to connecting with you.</h3>
 
