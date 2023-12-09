@@ -14,7 +14,7 @@
 </p>
 
 - 🔭 I’m currently working on **HTML CSS JS**
-- 🌱 I’m currently learning **CSS**
+- 🌱 I’m currently learning **React JS**
 - 🤝 I’m looking for help with **JAVASCRIPT**
 - 💬 Ask me about **HTML CSS WORDPRESS BLOGGING**
 - 📫 How to reach me **shreyasprabhu26@gmail.com**
