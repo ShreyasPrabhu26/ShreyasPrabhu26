@@ -13,10 +13,9 @@
   <a href="https://twitter.com/shreyasprabhu26" target="_blank"><img src="https://img.shields.io/twitter/follow/shreyasprabhu26?logo=twitter&style=for-the-badge" alt="shreyasprabhu26" /></a>
 </p>
 
-- 🔭 I’m currently working on **HTML CSS JS**
-- 🌱 I’m currently learning **React JS**
-- 🤝 I’m looking for help with **JAVASCRIPT**
-- 💬 Ask me about **HTML CSS WORDPRESS BLOGGING**
+- 🔭 I’m currently working on **Next JS | AWS | DevOps | Mern**
+- 🤝 I’m looking for help with **Devops Ecosystem**
+- 💬 Ask me about **Full Stack and Devops**
 - 📫 How to reach me **shreyasprabhu26@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
